@@ -12,6 +12,6 @@
 
 ## Схема workflow остальныч типов задач:
 
-![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/9.1.png)
+![img](https://github.com/SeNike/Study_24/blob/main/ansible-02/9.2.png)
 
 [XML](https://github.com/SeNike/jira-01/blob/main/other%20tasks%20workflow.xml)
